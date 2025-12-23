@@ -1,1 +1,2 @@
-spring.application.name=Spark2
+server:
+  port: 8080
